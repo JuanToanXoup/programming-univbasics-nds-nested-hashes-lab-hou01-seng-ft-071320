@@ -23,6 +23,7 @@ def literal_aoh
     { name:  "Kate Gompert", occupation: "None" },
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
+  contact_list
 end
 
 def aoh_lookup(aoh, row, key)
